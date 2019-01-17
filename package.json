@@ -1,0 +1,24 @@
+{
+  "name": "encrypt-me",
+  "version": "0.0.1",
+  "description": "online web crypto tool to encrypt contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srajagop/encrypt-me.git"
+  },
+  "keywords": [
+    "webcrypto",
+    "window.crypto",
+    "crypto"
+  ],
+  "author": "srajagop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srajagop/encrypt-me/issues"
+  },
+  "homepage": "https://github.com/srajagop/encrypt-me#readme"
+}
